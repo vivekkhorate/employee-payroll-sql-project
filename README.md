@@ -100,6 +100,6 @@ Vivek Khorate
 B.E. Computer Science & Engineering  
 Aspiring Data Analyst  
 
-GitHub: https:(https://github.com/vivekkhorate)                             
+GitHub: https:https://github.com/vivekkhorate                             
 LinkedIn: https://www.linkedin.com/in/vivek-khorate-329b25296/
 
